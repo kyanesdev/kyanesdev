@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Leonel Yanes</h1>
-<h3 align="center">A passionate software engineer from Argentina</h3>
+<h3 align="center">A passionate Software Engineer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyanesdev&label=Profile%20views&color=0e75b6&style=flat" alt="kyanesdev" /> </p>
 
