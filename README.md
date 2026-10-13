@@ -6,6 +6,17 @@
 
 ###
 
+<br clear="both">
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/kyanesdev/kyanesdev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=kyanesdev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -55,16 +66,30 @@
 
 ###
 
-<img data-importer="image" align="left" height="140" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyanesdev/kyanesdev/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyanesdev/kyanesdev/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kyanesdev/kyanesdev/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
 ###
 
 <img data-importer="image" align="left" height="140" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
 
 ###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:kyanesdev?theme=minecraft&padding=5&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<br clear="both">
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Thanks%20for%20read!%20%F0%9F%A7%89&fontSize=70&fontColor=7F00FF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=3&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&text=Thanks%20for%20read!%20%F0%9F%A7%89&fontSize=40&fontColor=7F00FF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=3&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
